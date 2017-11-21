@@ -1,0 +1,6 @@
+@import url("./reset.css");
+div{
+    padding: 0;
+    background-color: red;
+    color:#fff;
+}
